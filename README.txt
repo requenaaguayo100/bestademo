@@ -13,5 +13,8 @@ Los módulos contemplados son:
 5.- Reporte de cobranza efectiva por cartera, filtrando por fecha inicial y final ademas del selector de carteras (para este reporte se inserto información dummy)
 	5.1 Descarga en PDF
 	5.1 Descarga en excel
+	
+Usuario maestro: master@besta.com
+Contraseña: 123
 
 Nota: Para los siguientes módulos se considero solo una demo para mostrar de tal manera que se puede mejorar, cambiar, ajustar, a medida de lo que besta crea pertinente.
